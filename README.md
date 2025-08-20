@@ -1,5 +1,3 @@
-PawCare is a full-stack cloud-based pet care application built with Next.js, MongoDB Atlas, and Clerk authentication. It allows users to manage pet profiles (CRUD), identify breeds from images using TensorFlow.js, and get real-time guidance through an AI-powered chatbot integrated with Together AI API.
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
